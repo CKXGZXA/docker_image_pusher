@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 itzg/minecraft-server
+ffdfgdfg/npc
+whyour/qinglong
