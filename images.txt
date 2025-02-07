@@ -8,3 +8,4 @@
 itzg/minecraft-server
 ffdfgdfg/npc
 whyour/qinglong
+xprobe/xinference
